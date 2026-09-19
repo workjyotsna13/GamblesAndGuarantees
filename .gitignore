@@ -1,0 +1,18 @@
+.DS_Store
+
+# Website stays on Vercel only
+node_modules/
+.next/
+.vercel/
+src/
+public/
+package.json
+package-lock.json
+next.config.ts
+next-env.d.ts
+tsconfig.json
+postcss.config.mjs
+eslint.config.mjs
+vercel.json
+AGENTS.md
+CLAUDE.md
