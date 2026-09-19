@@ -16,7 +16,9 @@ When wealth is random, how much would a decision maker pay to replace the gamble
 
 ## Live site
 
-The interactive companion is hosted on Vercel (not in this repository).
+Production: https://gambles-and-guarantees.vercel.app
+
+Interactive companion on Vercel. Website source is not stored in this repository.
 
 ## References
 
